@@ -2,3 +2,6 @@
 
 texto = 'Alo mundo'
 print(texto)
+
+# Essa é a saída do código:
+# Alo mundo
